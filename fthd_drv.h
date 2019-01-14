@@ -20,6 +20,7 @@
 #ifndef _FTHD_DRV_H
 #define _FTHD_DRV_H
 
+#include <linux/version.h>
 #include <linux/pci.h>
 #include <linux/spinlock.h>
 #include <linux/wait.h>
